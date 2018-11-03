@@ -10,3 +10,4 @@
 * `input_generation.py` Produces pre-trained sentence embeddings for dlnd data also produces document matrix based on sentence embeddings for input to CNN.
 * `model.py` This is the main CNN program.It creates the output file which has the predictions for each target and source document pair.
 
+* `TAPNew.zip` This is training Data.
